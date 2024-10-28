@@ -1,4 +1,3 @@
-deformation/
 seg2tunnel/
 seg2tunnel_0.04/
 seg2tunnel_0.04_sparse_data/
@@ -13,6 +12,5 @@ seg2tunnel_dublin_0/
 seg2tunnel_wuxi/
 seg2tunnel_wuxi_0.04/
 
-people.xlsx
 *.rar
 *.zip
