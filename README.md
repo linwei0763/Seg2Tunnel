@@ -1,8 +1,6 @@
 # Seg2Tunnel
 
-The Seg2Tunnel dataset is available upon request.
-
-Feel free to contact Wei Lin via linwei9612@outlook.com for research purpose.
+The Seg2Tunnel dataset is open-access under the terms of CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/). If you agree to the terms, please fill in the Seg2Tunnel Request Form and send it to Wei Lin (linwei9612@outlook.com). A download link will be sent to you by email shortly.
 
 # install
 
